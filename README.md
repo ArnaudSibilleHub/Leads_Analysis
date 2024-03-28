@@ -1,1 +1,3 @@
-#Analyse excel datas regardint clients and prospects
+# Leads_Analysis
+
+excel sheets cleaning and simplyfing with pandas
